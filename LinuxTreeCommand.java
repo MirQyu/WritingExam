@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class TreeCommand {
+public class LinuxTreeCommand {
 	
 	public static class Node implements Comparable<Node> {
 		String name;
